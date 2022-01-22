@@ -1,0 +1,1 @@
+--Im an amateur scripter who mainly works in lua
